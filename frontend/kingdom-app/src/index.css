@@ -8,3 +8,18 @@
   max-width: 250px;
   display: inline-block;
 }
+
+.card .card-image{
+  max-width: 80%;
+  height: auto; /*automatically resizes*/
+  border-radius: 30%;
+  margin-bottom: 50px;
+}
+
+.user {
+  
+}
+
+.footer .p {
+  color: green;
+}
